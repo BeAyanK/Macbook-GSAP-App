@@ -1,4 +1,4 @@
-/* eslint-disable no-undef */
+
 import { create } from 'zustand';
 
 const useMacbookStore = create((set) => ({
